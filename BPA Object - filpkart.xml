@@ -1,0 +1,906 @@
+<process name="filpkart" version="1.0" bpversion="5.0.5.0" narrative="" type="object" runmode="Exclusive" preferredid="7c351af9-7014-4b6e-9bac-15ca573b0c22">
+  <appdef>
+    <element name="filpkart">
+      <id>3664ffad-0821-4d65-9761-540f7ad5b03b</id>
+      <element name="Samsung model">
+        <id>29534c90-ec7c-444a-b26f-8c73fed0aa44</id>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="225" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="469" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="18" />
+          </attribute>
+          <attribute name="Path" comparisontype="dynamic" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(3)/DIV(2)/DIV(1)/DIV(2)/DIV(2)/DIV(1)/DIV(1)/DIV(1)/A(1)/DIV(3)/DIV(1)/DIV(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="DIV" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="_3wU53n" />
+          </attribute>
+          <attribute name="ID">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Title">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="15" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value="samsung galaxy F02s(Diamond Blue,32GB)" />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://www.flipkart.com/search?q=samsung&amp;otracker=search&amp;otracker1=search&amp;marketplace=FLIPKART&amp;as-show=on&amp;as=off" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:537,303,321,1006" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="samsung cost">
+        <id>e342e24f-fcdb-4727-a175-c0de3074dadb</id>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="719" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="-1" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="98" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="25" />
+          </attribute>
+          <attribute name="Path" comparisontype="dynamic" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(3)/DIV(2)/DIV(1)/DIV(2)/DIV(2)/DIV(1)/DIV(1)/DIV(1)/A(1)/DIV(3)/DIV(2)/DIV(1)/DIV(1)/DIV(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="DIV" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="_1vC4OE _2rQ-NK" />
+          </attribute>
+          <attribute name="ID">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Title">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="17" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value="₹8,999" />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://www.flipkart.com/search?q=samsung&amp;otracker=search&amp;otracker1=search&amp;marketplace=FLIPKART&amp;as-show=on&amp;as=off" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:1031,302,327,1129" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="samsung rating">
+        <id>7ba28fc0-1b06-4491-9ebc-638c2c32408b</id>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="272" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="31" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="88" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="17" />
+          </attribute>
+          <attribute name="Path" comparisontype="dynamic" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(3)/DIV(2)/DIV(1)/DIV(2)/DIV(2)/DIV(1)/DIV(1)/DIV(1)/A(1)/DIV(3)/DIV(1)/DIV(2)/SPAN(2)/SPAN(1)/SPAN(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="SPAN" />
+          </attribute>
+          <attribute name="ClassName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ID">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Title" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="18" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value="943 Ratings " />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://www.flipkart.com/search?q=samsung&amp;otracker=search&amp;otracker1=search&amp;marketplace=FLIPKART&amp;as-show=on&amp;as=off" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:584,334,351,672" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>HTMLAttach</id>
+      <parameters>
+        <parameter>
+          <name>WindowTitle</name>
+          <value>
+          </value>
+        </parameter>
+        <parameter>
+          <name>ProcessName</name>
+          <value>
+          </value>
+        </parameter>
+        <parameter>
+          <name>Path</name>
+          <value>C:\Program Files\Internet Explorer\iexplore.exe</value>
+        </parameter>
+        <parameter>
+          <name>CommandLineParams</name>
+          <value>https://www.flipkart.com/search?q=samsung&amp;otracker=search&amp;otracker1=search&amp;marketplace=FLIPKART&amp;as-show=on&amp;as=off</value>
+        </parameter>
+        <parameter>
+          <name>UseJavaInBrowser</name>
+          <value>False</value>
+        </parameter>
+        <parameter>
+          <name>ExcludeHTC</name>
+          <value>False</value>
+        </parameter>
+        <parameter>
+          <name>ProcessMode</name>
+          <value>Internal</value>
+        </parameter>
+      </parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <subsheet subsheetid="2f67dc3a-6359-4c97-9ae7-66c3a172ece5" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="62cee8f9-56ae-46bd-ae22-b0788dd93b2c" type="Normal" published="False">
+    <name>extract data from flipkart</name>
+    <view>
+      <camerax>128</camerax>
+      <cameray>-15</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="1b449968-d84c-42a5-9693-b8bbc4d8edf0" name="Start" type="Start">
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>15</displayx>
+    <displayy>-105</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>71d41ad7-b1be-44d9-b383-19c6c3af9540</onsuccess>
+  </stage>
+  <stage stageid="71d41ad7-b1be-44d9-b383-19c6c3af9540" name="End" type="End">
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>15</displayx>
+    <displayy>90</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="a5eacd85-b2c4-4502-aae9-7ecdd858b708" name="Stage1" type="ProcessInfo">
+    <narrative>
+    </narrative>
+    <displayx>-195</displayx>
+    <displayy>-105</displayy>
+    <displaywidth>150</displaywidth>
+    <displayheight>90</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <references>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+    </imports>
+    <language>visualbasic</language>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="a78e899d-e384-4a60-a2a9-18d0d327c44e" name="Clean Up" type="SubSheetInfo">
+    <subsheetid>2f67dc3a-6359-4c97-9ae7-66c3a172ece5</subsheetid>
+    <narrative>
+    </narrative>
+    <displayx>-195</displayx>
+    <displayy>-105</displayy>
+    <displaywidth>150</displaywidth>
+    <displayheight>90</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="dabd3e9a-1b59-4fbd-99c1-ec507d5fb36c" name="Start" type="Start">
+    <subsheetid>2f67dc3a-6359-4c97-9ae7-66c3a172ece5</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>15</displayx>
+    <displayy>-105</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>8f8fac94-2553-40f0-906f-9a6e8e63fc58</onsuccess>
+  </stage>
+  <stage stageid="8f8fac94-2553-40f0-906f-9a6e8e63fc58" name="End" type="End">
+    <subsheetid>2f67dc3a-6359-4c97-9ae7-66c3a172ece5</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>15</displayx>
+    <displayy>90</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="46dacab6-c094-4809-a9b9-68c2932ffcbb" name="extract data from flipkart" type="SubSheetInfo">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <narrative>
+    </narrative>
+    <displayx>-195</displayx>
+    <displayy>-105</displayy>
+    <displaywidth>150</displaywidth>
+    <displayheight>90</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="c459a7dc-686c-444d-bf5f-614958307d6f" name="Start" type="Start">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>-165</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>cddb7d16-2beb-4f11-9d8b-78bf6e425e6c</onsuccess>
+  </stage>
+  <stage stageid="9ffc1021-8d99-4aac-93a0-4b45fb88afa5" name="End" type="End">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>375</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="02067d35-28f1-423a-b20f-77d8f2db1525" name="Note1" type="Note">
+    <subsheetid>2f67dc3a-6359-4c97-9ae7-66c3a172ece5</subsheetid>
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <displayx>-180</displayx>
+    <displayy>60</displayy>
+    <displaywidth>180</displaywidth>
+    <displayheight>230</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="2349019c-1dda-49a3-a1b0-894102c2527b" name="Note2" type="Note">
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <displayx>-180</displayx>
+    <displayy>60</displayy>
+    <displaywidth>180</displaywidth>
+    <displayheight>230</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+  <stage stageid="dbaa33e7-2f95-4682-85b7-3846a64e7060" name="launch" type="Navigate">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>-90</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>c8e4068a-7475-49a0-b8e9-8e035d5f41cb</onsuccess>
+    <step>
+      <element id="3664ffad-0821-4d65-9761-540f7ad5b03b" />
+      <action>
+        <id>Launch</id>
+        <arguments>
+          <argument>
+            <id>WindowTitle</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>ProcessName</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>Path</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>CommandLineParams</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>UseJavaInBrowser</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>ExcludeHTC</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>ProcessMode</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="9f99250c-9c67-455f-ba8b-e4b290e0af60" name="samsung model" type="Read">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>-30</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>9add5d13-4409-488e-96e7-cd5f4a074e17</onsuccess>
+    <step stage="samsung data.samsung model">
+      <element id="29534c90-ec7c-444a-b26f-8c73fed0aa44">
+        <elementparameter>
+          <name>Path</name>
+          <expression>[startmodel]&amp;[count]&amp;[endpath]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>ReadCurrentValue</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="9add5d13-4409-488e-96e7-cd5f4a074e17" name="samsung cost" type="Read">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>15</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>bd99e2cd-7a8d-4473-9223-936295133f17</onsuccess>
+    <step stage="samsung data.samsung cost">
+      <element id="e342e24f-fcdb-4727-a175-c0de3074dadb">
+        <elementparameter>
+          <name>Path</name>
+          <expression>[startcost]&amp;[count]&amp;[endcost]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>ReadCurrentValue</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="bd99e2cd-7a8d-4473-9223-936295133f17" name="samsung rating" type="Read">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>60</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>276ab94a-f8f3-477c-a335-908799437f34</onsuccess>
+    <step stage="samsung data.samsung rating">
+      <element id="7ba28fc0-1b06-4491-9ebc-638c2c32408b">
+        <elementparameter>
+          <name>Path</name>
+          <expression>[start rating]&amp;[count]&amp;[end rating]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>ReadCurrentValue</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="fd452a72-3230-4000-b79c-57f242cd8647" name="samsung data" type="Collection">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>300</displayx>
+    <displayy>-90</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+    <collectioninfo>
+      <field name="samsung model" type="text" />
+      <field name="samsung cost" type="text" />
+      <field name="samsung rating" type="text" />
+    </collectioninfo>
+    <initialvalue>
+      <row>
+        <field name="samsung model" type="text" value="" />
+        <field name="samsung cost" type="text" value="" />
+        <field name="samsung rating" type="text" value="" />
+      </row>
+    </initialvalue>
+  </stage>
+  <stage stageid="c07c8404-6231-4db1-a41b-3b89da7df25c" name="Time Out1" type="WaitEnd">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>105</displayx>
+    <displayy>-120</displayy>
+    <displaywidth>30</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>dbaa33e7-2f95-4682-85b7-3846a64e7060</onsuccess>
+    <groupid>efdb6e20-6d5b-476f-b291-25b1ca1840e0</groupid>
+  </stage>
+  <stage stageid="cddb7d16-2beb-4f11-9d8b-78bf6e425e6c" name="Wait1" type="WaitStart">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-90</displayx>
+    <displayy>-120</displayy>
+    <displaywidth>30</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <groupid>efdb6e20-6d5b-476f-b291-25b1ca1840e0</groupid>
+    <choices />
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="97246c1b-c569-47d6-b1d7-0d96cafbc402" name="Time Out2" type="WaitEnd">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>120</displayx>
+    <displayy>-60</displayy>
+    <displaywidth>30</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>9f99250c-9c67-455f-ba8b-e4b290e0af60</onsuccess>
+    <groupid>8dc84b30-b75c-478a-abe1-a20e2d291a80</groupid>
+  </stage>
+  <stage stageid="c8e4068a-7475-49a0-b8e9-8e035d5f41cb" name="Wait2" type="WaitStart">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-90</displayx>
+    <displayy>-60</displayy>
+    <displaywidth>30</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <groupid>8dc84b30-b75c-478a-abe1-a20e2d291a80</groupid>
+    <choices />
+    <timeout>3</timeout>
+  </stage>
+  <stage stageid="6c54526d-d1e6-46df-a7c2-c94fa4e56207" name="startmodel" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-270</displayx>
+    <displayy>15</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(3)/DIV(2)/DIV(1)/DIV(2)/DIV(</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="7b76f587-cee2-4d74-b8fe-d413046dc850" name="endpath" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-135</displayx>
+    <displayy>15</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">)/DIV(1)/DIV(1)/DIV(1)/A(1)/DIV(3)/DIV(1)/DIV(1)</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="59bbf2db-212c-4bab-bb71-25cb1eb4080f" name="startcost" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-285</displayx>
+    <displayy>75</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(3)/DIV(2)/DIV(1)/DIV(2)/DIV(</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="cd371ba7-3fec-4db5-99bb-1ed33b64fc91" name="endcost" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-150</displayx>
+    <displayy>75</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">)/DIV(1)/DIV(1)/DIV(1)/A(1)/DIV(3)/DIV(2)/DIV(1)/DIV(1)/DIV(1)</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="376ee90a-6434-412c-b728-a728a294e32d" name="start rating" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-315</displayx>
+    <displayy>150</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(3)/DIV(2)/DIV(1)/DIV(2)/DIV( </initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="90ca12da-7a45-4e91-a865-26c1a2abdfba" name="end rating" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-150</displayx>
+    <displayy>135</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">)/DIV(1)/DIV(1)/DIV(1)/A(1)/DIV(3)/DIV(1)/DIV(2)/SPAN(2)/SPAN(1)/SPAN(1)
+</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="9990147e-dbf4-4568-a0bf-265ae7afdce2" name="count" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-210</displayx>
+    <displayy>60</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>number</datatype>
+    <initialvalue>2</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="276ab94a-f8f3-477c-a335-908799437f34" name="counter" type="Calculation">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>120</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>0f77b4fc-e7b9-4906-a767-c458ce204173</onsuccess>
+    <calculation expression="[count]+1" stage="count" />
+  </stage>
+  <stage stageid="fe701581-52c7-41d9-b0f3-57beac985ef2" name="maxtimes" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>-210</displayx>
+    <displayy>120</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>number</datatype>
+    <initialvalue>6</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="effb5d8b-ebbf-40ab-9d09-bb6d3fcc392a" name="counter" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <narrative>
+    </narrative>
+    <displayx>375</displayx>
+    <displayy>-15</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>number</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="0f77b4fc-e7b9-4906-a767-c458ce204173" name="collection" type="Action">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>195</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <inputs>
+      <input type="text" name="Collection Name" narrative="The name of the collection to act upon" expr="&quot;samsung data&quot;" />
+    </inputs>
+    <onsuccess>0179fe94-3209-43de-a869-460f29121b2e</onsuccess>
+    <resource object="Blueprism.AutomateProcessCore.clsCollectionActions" action="Add Row" />
+  </stage>
+  <stage stageid="0179fe94-3209-43de-a869-460f29121b2e" name="[count]&lt;=[maxtimes]" type="Decision">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>0</displayx>
+    <displayy>270</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <decision expression="[count]&lt;=[maxtimes]" />
+    <ontrue>a42c13a9-c91e-439f-824b-f4e68865052f</ontrue>
+    <onfalse>9ffc1021-8d99-4aac-93a0-4b45fb88afa5</onfalse>
+  </stage>
+  <stage stageid="a42c13a9-c91e-439f-824b-f4e68865052f" name="model" type="Calculation">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>90</displayx>
+    <displayy>270</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>0e914078-8c59-498d-83d3-9d3ea1368d97</onsuccess>
+    <calculation expression="[model]" stage="samsung data.samsung model" />
+  </stage>
+  <stage stageid="0e914078-8c59-498d-83d3-9d3ea1368d97" name="cost" type="Calculation">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>180</displayx>
+    <displayy>270</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>949fdb5a-6daa-47a1-bab2-fcdcd7cb363f</onsuccess>
+    <calculation expression="[cost]" stage="samsung data.samsung cost" />
+  </stage>
+  <stage stageid="949fdb5a-6daa-47a1-bab2-fcdcd7cb363f" name="rating" type="Calculation">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>255</displayx>
+    <displayy>270</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e47cf8e2-c887-402c-b21c-7aa1836fb2f4</onsuccess>
+    <calculation expression="[rating]" stage="samsung data.samsung rating" />
+  </stage>
+  <stage stageid="1d993ea6-0de0-4929-85f8-07e5bf8ae326" name="model" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <narrative>
+    </narrative>
+    <displayx>420</displayx>
+    <displayy>105</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="dd857993-c2d0-4057-bfa2-8f67c950cb75" name="cost" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <narrative>
+    </narrative>
+    <displayx>360</displayx>
+    <displayy>45</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="1dcaef56-cc0a-4dd6-b7a9-911770896bc0" name="rating" type="Data">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <narrative>
+    </narrative>
+    <displayx>405</displayx>
+    <displayy>150</displayy>
+    <displaywidth>60</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="e47cf8e2-c887-402c-b21c-7aa1836fb2f4" name="Anchor1" type="Anchor">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>315</displayx>
+    <displayy>270</displayy>
+    <displaywidth>10</displaywidth>
+    <displayheight>10</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>cb7b217a-682f-4b4f-8535-9b6c505bad1a</onsuccess>
+  </stage>
+  <stage stageid="cb7b217a-682f-4b4f-8535-9b6c505bad1a" name="Anchor2" type="Anchor">
+    <subsheetid>62cee8f9-56ae-46bd-ae22-b0788dd93b2c</subsheetid>
+    <loginhibit />
+    <narrative>
+    </narrative>
+    <displayx>300</displayx>
+    <displayy>-15</displayy>
+    <displaywidth>10</displaywidth>
+    <displayheight>10</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>9f99250c-9c67-455f-ba8b-e4b290e0af60</onsuccess>
+  </stage>
+</process>
